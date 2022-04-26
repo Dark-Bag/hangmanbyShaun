@@ -18,3 +18,23 @@ C:\Users\Shaun Mkwenkwe\Downloads\HangmanGameSln\HangmanGameSln\HangmanGame\obj\
 C:\Users\Shaun Mkwenkwe\Downloads\HangmanGameSln\HangmanGameSln\HangmanGame\obj\Debug\net5.0\HangmanGameConsole.pdb
 C:\Users\Shaun Mkwenkwe\Downloads\HangmanGameSln\HangmanGameSln\HangmanGame\obj\Debug\net5.0\HangmanGameConsole.genruntimeconfig.cache
 C:\Users\Shaun Mkwenkwe\Downloads\HangmanGameSln\HangmanGameSln\HangmanGame\obj\Debug\net5.0\ref\HangmanGameConsole.dll
+C:\hangmanbyShaun\HangmanGame\bin\Debug\net5.0\HangmanGameConsole.exe
+C:\hangmanbyShaun\HangmanGame\bin\Debug\net5.0\HangmanGameConsole.deps.json
+C:\hangmanbyShaun\HangmanGame\bin\Debug\net5.0\HangmanGameConsole.runtimeconfig.json
+C:\hangmanbyShaun\HangmanGame\bin\Debug\net5.0\HangmanGameConsole.runtimeconfig.dev.json
+C:\hangmanbyShaun\HangmanGame\bin\Debug\net5.0\HangmanGameConsole.dll
+C:\hangmanbyShaun\HangmanGame\bin\Debug\net5.0\HangmanGameConsole.pdb
+C:\hangmanbyShaun\HangmanGame\bin\Debug\net5.0\Hangman.Core.dll
+C:\hangmanbyShaun\HangmanGame\bin\Debug\net5.0\HangmanRenderer.dll
+C:\hangmanbyShaun\HangmanGame\bin\Debug\net5.0\Hangman.Core.pdb
+C:\hangmanbyShaun\HangmanGame\obj\Debug\net5.0\HangmanGameConsole.csproj.AssemblyReference.cache
+C:\hangmanbyShaun\HangmanGame\obj\Debug\net5.0\HangmanGameConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\hangmanbyShaun\HangmanGame\obj\Debug\net5.0\HangmanGameConsole.AssemblyInfoInputs.cache
+C:\hangmanbyShaun\HangmanGame\obj\Debug\net5.0\HangmanGameConsole.AssemblyInfo.cs
+C:\hangmanbyShaun\HangmanGame\obj\Debug\net5.0\HangmanGameConsole.csproj.CoreCompileInputs.cache
+C:\hangmanbyShaun\HangmanGame\obj\Debug\net5.0\HangmanGameConsole.csproj.CopyComplete
+C:\hangmanbyShaun\HangmanGame\obj\Debug\net5.0\HangmanGameConsole.dll
+C:\hangmanbyShaun\HangmanGame\obj\Debug\net5.0\refint\HangmanGameConsole.dll
+C:\hangmanbyShaun\HangmanGame\obj\Debug\net5.0\HangmanGameConsole.pdb
+C:\hangmanbyShaun\HangmanGame\obj\Debug\net5.0\HangmanGameConsole.genruntimeconfig.cache
+C:\hangmanbyShaun\HangmanGame\obj\Debug\net5.0\ref\HangmanGameConsole.dll

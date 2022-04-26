@@ -12,3 +12,17 @@ C:\Users\Shaun Mkwenkwe\Downloads\HangmanGameSln\HangmanGameSln\Hangman.Core\obj
 C:\Users\Shaun Mkwenkwe\Downloads\HangmanGameSln\HangmanGameSln\Hangman.Core\obj\Debug\net5.0\refint\Hangman.Core.dll
 C:\Users\Shaun Mkwenkwe\Downloads\HangmanGameSln\HangmanGameSln\Hangman.Core\obj\Debug\net5.0\Hangman.Core.pdb
 C:\Users\Shaun Mkwenkwe\Downloads\HangmanGameSln\HangmanGameSln\Hangman.Core\obj\Debug\net5.0\ref\Hangman.Core.dll
+C:\hangmanbyShaun\Hangman.Core\bin\Debug\net5.0\Hangman.Core.deps.json
+C:\hangmanbyShaun\Hangman.Core\bin\Debug\net5.0\Hangman.Core.dll
+C:\hangmanbyShaun\Hangman.Core\bin\Debug\net5.0\Hangman.Core.pdb
+C:\hangmanbyShaun\Hangman.Core\bin\Debug\net5.0\HangmanRenderer.dll
+C:\hangmanbyShaun\Hangman.Core\obj\Debug\net5.0\Hangman.Core.csproj.AssemblyReference.cache
+C:\hangmanbyShaun\Hangman.Core\obj\Debug\net5.0\Hangman.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\hangmanbyShaun\Hangman.Core\obj\Debug\net5.0\Hangman.Core.AssemblyInfoInputs.cache
+C:\hangmanbyShaun\Hangman.Core\obj\Debug\net5.0\Hangman.Core.AssemblyInfo.cs
+C:\hangmanbyShaun\Hangman.Core\obj\Debug\net5.0\Hangman.Core.csproj.CoreCompileInputs.cache
+C:\hangmanbyShaun\Hangman.Core\obj\Debug\net5.0\Hangman.Core.csproj.CopyComplete
+C:\hangmanbyShaun\Hangman.Core\obj\Debug\net5.0\Hangman.Core.dll
+C:\hangmanbyShaun\Hangman.Core\obj\Debug\net5.0\refint\Hangman.Core.dll
+C:\hangmanbyShaun\Hangman.Core\obj\Debug\net5.0\Hangman.Core.pdb
+C:\hangmanbyShaun\Hangman.Core\obj\Debug\net5.0\ref\Hangman.Core.dll

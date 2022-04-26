@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uu9M1iJBhlE/QkwGYEvolW8DpB0x3f1ow2xnkixH8FjiDVWZgvzQSJmsxkK1TsWtMXrwGvsFaxYJ8fnpVkrAtQ==",
+  "dgSpecHash": "KJUapcM9jHhuRB0FU7Tnog4YxMr2x5DjvpcfrRdEeFH3c19YK0vl6iaNhsIl1kRc2bwd03Z1mFfqKA+++w2ukA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shaun Mkwenkwe\\Downloads\\HangmanGameSln\\HangmanGameSln\\HangmanGame\\HangmanGameConsole.csproj",
+  "projectFilePath": "C:\\hangmanbyShaun\\HangmanGame\\HangmanGameConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

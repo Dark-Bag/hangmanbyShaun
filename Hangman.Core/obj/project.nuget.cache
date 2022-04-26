@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SlPNLRlheIpNCChPdq/K0G1e6BbltkeF/QWKQoH6WrGSdGoam4uF6XEUWI3h/kDmLQF9+qAK5LY7Az8yRZtjyQ==",
+  "dgSpecHash": "ZhFxqGwmhvMUitd1piemipNTij13dQ5v2mXvYrP6Tx/68TYjcSAlqHeA9eQrdsiVYQXNQkNkpiXz5mCJ1qpFUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shaun Mkwenkwe\\Downloads\\HangmanGameSln\\HangmanGameSln\\Hangman.Core\\Hangman.Core.csproj",
+  "projectFilePath": "C:\\hangmanbyShaun\\Hangman.Core\\Hangman.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

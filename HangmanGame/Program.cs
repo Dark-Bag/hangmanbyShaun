@@ -11,8 +11,10 @@ namespace HangmanGameConsole
 
             Console.ForegroundColor = ConsoleColor.Green;
             Console.SetCursorPosition(10, 2);
-            Console.Write("Welcome to Hangman!!");
+            Console.Write("Welcome to Hangman Application!!!");
 
+            Console.SetCursorPosition(10, 3);
+            Console.Write("Guess the player's name.");
             var hangman = new HangmanGame();
             hangman.Run();
 
